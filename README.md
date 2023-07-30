@@ -14,11 +14,6 @@ I take great pride in my academic journey at Brno University of Technology, wher
 
 As a Full Stack Developer, I played a pivotal role in the digital transformation of the Moravian Library. By harnessing React, JavaScript, and Python, I spearheaded the development of intuitive internal web applications that revolutionized the library's operations. These applications streamlined processes, enhanced work efficiency, and empowered staff to accomplish tasks with unprecedented speed and accuracy.
 
-
-## 🌱 Extracurricular Activities
-
-In addition to my studies, I actively engaged in extracurricular activities to give back to the community and nurture the next generation of IT enthusiasts. One of my proudest accomplishments was organizing a course for students from elementary schools who were eager to explore the world of IT. It was incredibly fulfilling to share my knowledge and inspire young minds to discover the possibilities of technology.
-
 ## 🛠️ Tech Stack
 
 Frontend development remains my primary focus, and I'm proficient in technologies such as React, TypeScript, JavaScript, TailwindCSS, and Bootstrap. Crafting seamless user interfaces and delivering exceptional user experiences is my passion, and I'm continually exploring new tools and trends to stay at the forefront of the ever-evolving frontend landscape.
