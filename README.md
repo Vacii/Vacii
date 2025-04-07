@@ -33,9 +33,3 @@ Frontend development remains my primary focus, and I'm proficient in technologie
 ## 🌐 Let's Connect!
 
 I'm always excited to connect with fellow developers, potential employers, or anyone interested in tech and coding. Feel free to reach out to me via [Email](mailto:lv.vaclavek@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lukasvaclavek/).
-
-## 🏞️ Denmark: A Developer's Haven
-
-With a Bachelor's degree from Brno University of Technology and a drive to excel in frontend development, I'm eager to relocate to Denmark and immerse myself in its thriving tech scene. Denmark's blend of breathtaking landscapes, strong work-life balance, and a plethora of outstanding tech companies, especially in Copenhagen, make it an ideal destination for a passionate developer like me.
-
-Thank you for stopping by and getting to know me better! Feel free to explore my projects and connect with me on social media. Let's build innovative solutions together and make a positive impact on the world of technology! 🚀
